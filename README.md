@@ -25,4 +25,4 @@
 ---
 
 ## Screenshot Program
-(./ss/Screenshot%202026-11-17%20151045.png)
+![](./ss/Screenshot%202026-11-17%20151045.png)
