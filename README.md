@@ -25,4 +25,4 @@
 ---
 
 ## Screenshot Program
-*(D:\Semester 5\PBO\tugas\LatihanGUI_PBO\ss\Screenshot 2026-11-17 151045.png)*
+(./ss/Screenshot 2026-11-17 151045.png)
