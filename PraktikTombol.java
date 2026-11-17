@@ -4,7 +4,7 @@ import java.awt.event.*;
 
 public class PraktikTombol {
     public static void main(String[] args) {
-        JFrame frame = new JFrame("Minimal GUI Java");
+        JFrame frame = new JFrame("Praktik Tekan Tombol");
         frame.setSize(300, 200);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         
