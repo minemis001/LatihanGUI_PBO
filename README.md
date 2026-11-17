@@ -25,4 +25,4 @@
 ---
 
 ## Screenshot Program
-(./ss/Screenshot%202026-11-17%20151045.png)
+<img width="588" height="390" alt="Screenshot 2026-11-17 151045" src="https://github.com/user-attachments/assets/3a5a85cb-6e6d-41c2-ab44-9579b3575940" />
